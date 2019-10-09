@@ -1,0 +1,28 @@
+html{
+    color: white;
+    text-shadow: 0px 0px 2px black;
+    background-size: 100% 100%;
+    background-image: url("/img/squatchy.jpg")
+}
+p{
+    padding: 5px;
+    background-color: rgba(1,1,1, 0.5)
+}
+ul{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgba(1,1,1, 0.5);
+}
+h2, h3{
+    color: #1d1d1d;
+}
+.btn{
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    color: white;
+    background-color: #1d1d1d;
+}
+.btn:hover{
+    color: green;
+}
